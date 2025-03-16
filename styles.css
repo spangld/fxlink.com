@@ -1,11 +1,12 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+html, body {
+    height: 100%;
     margin: 0;
-    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
-h1 {
-    color: #007BFF;
+h1, p {
+    margin: 0;
 }
