@@ -1,1 +1,1 @@
-console.log('Welcome to my website!');
+window.open('https://spangld.github.io/tnpainor.com', '_blank');
